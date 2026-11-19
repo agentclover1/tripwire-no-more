@@ -1,0 +1,74 @@
+{
+  "block.tripwire.attach": {
+    "replace": true,
+    "sounds": [
+      "tripwire_no_more/silent"
+    ]
+  },
+  "block.tripwire.detach": {
+    "replace": true,
+    "sounds": [
+      "tripwire_no_more/silent"
+    ]
+  },
+  "block.tripwire.click_on": {
+    "replace": true,
+    "sounds": [
+      "tripwire_no_more/silent"
+    ]
+  },
+  "block.tripwire.click_off": {
+    "replace": true,
+    "sounds": [
+      "tripwire_no_more/silent"
+    ]
+  },
+  "block.wooden_door.open": {
+    "replace": true,
+    "sounds": [
+      "tripwire_no_more/silent"
+    ]
+  },
+  "block.wooden_door.close": {
+    "replace": true,
+    "sounds": [
+      "tripwire_no_more/silent"
+    ]
+  },
+  "block.iron_door.open": {
+    "replace": true,
+    "sounds": [
+      "tripwire_no_more/silent"
+    ]
+  },
+  "block.iron_door.close": {
+    "replace": true,
+    "sounds": [
+      "tripwire_no_more/silent"
+    ]
+  },
+  "block.nether_wood_door.open": {
+    "replace": true,
+    "sounds": [
+      "tripwire_no_more/silent"
+    ]
+  },
+  "block.nether_wood_door.close": {
+    "replace": true,
+    "sounds": [
+      "tripwire_no_more/silent"
+    ]
+  },
+  "block.copper_door.open": {
+    "replace": true,
+    "sounds": [
+      "tripwire_no_more/silent"
+    ]
+  },
+  "block.copper_door.close": {
+    "replace": true,
+    "sounds": [
+      "tripwire_no_more/silent"
+    ]
+  }
+}
